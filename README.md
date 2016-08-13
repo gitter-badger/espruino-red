@@ -1,6 +1,8 @@
 Espruino-Red
 ============
 
+[![Join the chat at https://gitter.im/jeelabs/espruino-red](https://badges.gitter.im/jeelabs/espruino-red.svg)](https://gitter.im/jeelabs/espruino-red?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 __WARNING__ Espruino-red is a prototype, don't expect it to work!
 
 Espruino-red extends the node-red framework to run special nodes directly
